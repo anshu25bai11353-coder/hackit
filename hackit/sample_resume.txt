@@ -1,0 +1,29 @@
+
+    JOHN DOE
+    Computer Science Graduate | Class of 2025
+    
+    EDUCATION:
+    Bachelor of Technology in Computer Science
+    XYZ University, GPA: 3.7/4.0
+    
+    TECHNICAL SKILLS:
+    - Programming: Python, Java, SQL
+    - Web: HTML, CSS, JavaScript, React
+    - Data: Pandas, NumPy, Matplotlib
+    - Tools: Git, VS Code, Linux
+    
+    PROJECTS:
+    - E-commerce Website: Built full-stack application using React and Node.js
+    - Data Analysis Dashboard: Created interactive dashboard using Python and Plotly
+    - Machine Learning Model: Implemented classification model using Scikit-learn
+    
+    INTERNSHIP:
+    Software Development Intern | ABC Tech | Summer 2024
+    - Developed REST APIs using Python Flask
+    - Worked with PostgreSQL database
+    - Participated in code reviews and agile ceremonies
+    
+    CERTIFICATIONS:
+    - Python for Everybody (Coursera)
+    - SQL Fundamentals (HackerRank)
+    

@@ -1,0 +1,55 @@
+{
+  "resume_score": 24.0,
+  "matched_required_skills": [
+    "Git",
+    "Linux"
+  ],
+  "missing_required_skills": [
+    "Scripting (Python/Bash)",
+    "Docker",
+    "CI/CD"
+  ],
+  "matched_preferred_skills": [],
+  "missing_preferred_skills": [
+    "Jenkins",
+    "Terraform",
+    "AWS/Azure/GCP",
+    "Prometheus",
+    "Kubernetes"
+  ],
+  "experience_years": 0.0,
+  "suggestions": [
+    "Learn these required skills: Scripting (Python/Bash), Docker, CI/CD",
+    "Enhance your profile with preferred skills: Jenkins, Terraform, AWS/Azure/GCP, Prometheus, Kubernetes",
+    "Gain practical experience through internships or personal projects",
+    "Consider certification courses to strengthen your profile"
+  ],
+  "recommended_certifications": [
+    "AWS DevOps",
+    "CKA",
+    "Docker Certified",
+    "Terraform Associate"
+  ],
+  "career_roadmap": {
+    "0-3 months": [
+      "Learn fundamentals",
+      "Build foundational skills",
+      "Start online courses"
+    ],
+    "3-6 months": [
+      "Practice with projects",
+      "Learn industry tools",
+      "Earn entry-level certification"
+    ],
+    "6-12 months": [
+      "Build portfolio",
+      "Contribute to open source",
+      "Network with professionals"
+    ],
+    "12-18 months": [
+      "Advanced certifications",
+      "Specialize in domain",
+      "Apply for roles"
+    ]
+  }
+}
