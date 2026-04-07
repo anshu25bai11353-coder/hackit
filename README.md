@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="Screenshot 2026-04-07 at 12 29 13 AM" src="https://github.com/user-attachments/assets/dfd4d347-ccf5-4ee7-9d55-5ae2c5b7c174" /># hackit
+
 # 🤖 AI Resume Screener & Career Roadmap Advisor
 
 > **PS-09 | CSE AI** - AI-powered resume evaluation and career guidance system for students
@@ -95,9 +95,9 @@ Upload files
 
 Give a ⭐️ if this project helped you!
 
-<img width="1470" height="956" alt="Screenshot 2026-04-07 at 12 29 13 AM" src="https://github.com/user-attachments/assets/41d119c0-8c42-49c1-a4ee-9060c0cf26a4" />
-<img width="1470" height="956" alt="Screenshot 2026-04-07 at 12 29 21 AM" src="https://github.com/user-attachments/assets/cd0b1219-2a4a-4802-bf26-4a67faa4c652" />
 
-<img width="1470" height="956" alt="Screenshot 2026-04-07 at 12 29 31 AM" src="https://github.com/user-attachments/assets/a6acdef1-4f1b-419b-bf3e-8f64965675f1" />
+<img width="1470" height="956" alt="image1" src="https://github.com/user-attachments/assets/79264a7f-2656-4471-8ed7-100388300db8" />
+
+
 
 
