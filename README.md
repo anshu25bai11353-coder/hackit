@@ -44,9 +44,9 @@ An AI-powered system that evaluates resumes against industry benchmarks and gene
 
 ## 🚀 Installation
 
-```bash
-# Clone repository
-git clone https://github.com/yourusername/AI-Resume-Screener.git
+bash
+# Streamlite
+link : https://anshu-sharma-hackit.streamlit.app/
 
 # Navigate to folder
 cd AI-Resume-Screener
@@ -96,8 +96,10 @@ Upload files
 Give a ⭐️ if this project helped you!
 
 
-<img width="1470" height="956" alt="image1" src="https://github.com/user-attachments/assets/79264a7f-2656-4471-8ed7-100388300db8" />
+<img width="1470" height="956" alt="image1" src="https://github.com/user-attachments/assets/18a58754-48d1-4759-8979-0ff1644eb284" />
 
+<img width="1470" height="956" alt="image2" src="https://github.com/user-attachments/assets/1b1108d8-2f05-42b9-ba25-9ace2b20f88f" />
 
+<img width="1470" height="956" alt="image3" src="https://github.com/user-attachments/assets/e462a1e0-c1d8-424d-8e48-7293915ca8c6" />
 
 
