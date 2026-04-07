@@ -78,20 +78,17 @@ Download report for future
 🎓 Certifications: AWS Developer, Microsoft Azure
 🗺️ Roadmap: 0-3 months DSA focus
 
-🚀 Deployment
-Streamlit Cloud (Free)
-Push code to GitHub
-
-Go to share.streamlit.io
+# 🚀 Deployment
+- Streamlit Cloud (Free)
+- Push code to GitHub
+- Go to share.streamlit.io
 
 Deploy from GitHub
 
-Hugging Face Spaces (Free)
-Create new Space
-
-Select Streamlit SDK
-
-Upload files
+- Hugging Face Spaces (Free)
+- Create new Space
+- Select Streamlit SDK
+- Upload files
 
 Give a ⭐️ if this project helped you!
 
